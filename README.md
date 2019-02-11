@@ -1,1 +1,1 @@
-nokia
+Sharp Aquos S2
