@@ -1,0 +1,22 @@
+        Linux kernel release 4.x <http://kernel.org/>
+
+These are the release notes for Linux version 4.  Read them carefully,
+as they tell you what this is all about, explain how to install the
+kernel, and what to do if something goes wrong. 
+
+FIH Mobile kernel:
+
+First commit 
+- initial release
+-removed nokia dts
+- added Sharp C10 dts
+
+Second commit:
+- added Sharp S2 (SS2) dts
+- added NOkia 6.1 (2018) dts
+- separate config for SS2 (SS2)
+- separate config for Nokia - (FIH)  
+
+Third commit:
+- add wlan
+- add nokia config (all)
